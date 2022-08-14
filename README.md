@@ -11,3 +11,6 @@ Covering:
 4) Test Model
 5) Submission
 6) Conclusion
+
+Available on kaggle - https://www.kaggle.com/code/glowunicorn/melanoma-detection/
+
